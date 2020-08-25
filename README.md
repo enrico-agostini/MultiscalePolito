@@ -11,7 +11,7 @@ See S. Torquato, “Predicting transport characteristics of hyperuniform porous 
 ### Dependencies
 
 *programming languages: Python,C++
-*Softwares: OpenFOAM,Jupyter Notebooks
+*Softwares: OpenFOAM,  Jupyter Notebooks
 
 
 ## Authors
