@@ -19,6 +19,7 @@ See S. Torquato, “Predicting transport characteristics of hyperuniform porous 
 ## Authors
 
 The group members are: 
+
 Enrico Agostini (enrico.agostini@polito.it)
 
 Agnese Marcato (agnese.marcato@polito.it)
